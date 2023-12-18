@@ -79,13 +79,13 @@ $( document ).ready(function() {
     $this.on('click', function(event) {
       event.preventDefault(); // prevent the normal behaviour i.e. load the <a> hyperlink
       // Get the PSWP element and initialise it with the desired options
-      var $pswp = $('.pswp')[0];
-      var options = {
-        index: index,
-        bgOpacity: 0.8,
-        showHideOpacity: true
-      }
-      new PhotoSwipe($pswp, PhotoSwipeUI_Default, items, options).init();
+      //var $pswp = $('.pswp')[0];
+      //var options = {
+      //  index: index,
+      //  bgOpacity: 0.8,
+      //  showHideOpacity: true
+      //}
+      //new PhotoSwipe($pswp, PhotoSwipeUI_Default, items, options).init();
     });
   });
 });
