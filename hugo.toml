@@ -1,6 +1,6 @@
 #baseurl = "https://username.github.io"
 baseurl = "https://toddwalters.wtf"
-publishDir = "docs"
+#publishDir = "docs"
 DefaultContentLanguage = "en"
 title = "Beautiful Hugo"
 # Using theme as git submodule 
