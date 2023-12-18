@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://junk4walters.github.io/sitemap.xml
+Sitemap: https://toddwalters.wft/sitemap.xml

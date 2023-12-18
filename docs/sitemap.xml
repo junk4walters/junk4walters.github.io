@@ -1,20 +1,20 @@
-<?xml-stylesheet type="text/xsl" href="https://junk4walters.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://toddwalters.wft/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://junk4walters.github.io/categories/</loc>
+    <loc>https://toddwalters.wft/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://junk4walters.github.io/</loc>
+    <loc>https://toddwalters.wft/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://junk4walters.github.io/tags/</loc>
+    <loc>https://toddwalters.wft/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
