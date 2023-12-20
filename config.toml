@@ -1,5 +1,5 @@
-#baseurl = "https://username.github.io"
-baseurl = "https://toddwalters.wtf"
+baseurl = "https://junk4walters.github.io"
+# baseurl = "https://toddwalters.wtf"
 #publishDir = "docs"
 DefaultContentLanguage = "en"
 title = "Beautiful Hugo"
